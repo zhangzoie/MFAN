@@ -1,4 +1,4 @@
-# Multi-level Feature Attention Network (MFAN) for Medical Image Segmentation
+# MFAN: Multi-level Feature Attention Network for Medical Image Segmentation
 
 This repository provides the official implementation of the paper:
 
